@@ -12,3 +12,6 @@ logging:
         io:
             pivotal: DEBUG
 
+greeting:
+    displayFortune: true
+
